@@ -16,7 +16,7 @@ NOTE: Your solution should use pure SQL. Ruby is used within the test cases just
 /*    SOLUTION    */
 
 INSERT INTO participants (name, age, attending)
-VALUES ('Pete', 21, true);
+VALUES ('John Doe', 21, true);
 
 SELECT * FROM participants;
 
